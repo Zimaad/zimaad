@@ -9,7 +9,7 @@
 <br/>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=zimaad-azhari&label=Profile+Views&color=7B2FBE&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=zimaad&label=Profile+Views&color=7B2FBE&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zimaad.azhari@gmail.com)
@@ -57,7 +57,7 @@ fun_fact: >
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zimaad-azhari&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zimaad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -111,12 +111,12 @@ fun_fact: >
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zimaad-azhari&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimaad-azhari&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zimaad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimaad&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zimaad-azhari&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zimaad&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
 ---
@@ -126,9 +126,9 @@ fun_fact: >
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimaad-azhari/zimaad-azhari/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimaad-azhari/zimaad-azhari/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zimaad-azhari/zimaad-azhari/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -172,7 +172,7 @@ jobs:
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimaad-azhari&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7B2FBE" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimaad&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7B2FBE" />
 </div>
 
 ---
@@ -182,8 +182,8 @@ jobs:
 
 <div align="center">
 
-[![PREX](https://github-readme-stats.vercel.app/api/pin/?username=zimaad-azhari&repo=prex&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad-azhari)
-[![Noting App](https://github-readme-stats.vercel.app/api/pin/?username=zimaad-azhari&repo=noting-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad-azhari)
+[![PREX](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=prex&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
+[![Noting App](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=noting-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
 
 </div>
 
