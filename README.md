@@ -126,10 +126,10 @@ fun_fact: >
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zimaad/zimaad/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 > **To activate the snake:** In your repo, go to **Settings → Actions → General**, allow all actions, then create this workflow file:
