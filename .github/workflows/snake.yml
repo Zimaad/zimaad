@@ -12,7 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: zimaad
           outputs: |
@@ -21,6 +22,7 @@ jobs:
 
       - name: Push snake to output branch
         run: |
+          sudo rm -rf dist/.git
           cd dist
           git init
           git config user.name "github-actions"
