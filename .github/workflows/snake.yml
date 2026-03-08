@@ -23,7 +23,6 @@ jobs:
 
       - uses: EndBug/add-and-commit@v9
         with:
-          branch: output
           add: docs/
           message: "Generate snake"
-          push: origin output --set-upstream --force
+          new_branch: output
