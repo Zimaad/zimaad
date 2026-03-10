@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zimaad%20Azhari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Mumbai&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Zimaad+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Enthusiast+%F0%9F%A4%96;Building+cool+stuff+with+React+%26+Firebase+%F0%9F%94%A5;1st+Place+%40+HackOps+2025+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Zimaad+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 <br/>
 
