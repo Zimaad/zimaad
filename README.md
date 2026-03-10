@@ -137,38 +137,6 @@ fun_fact: >
 </picture>
 </div>
 
-> **To activate the snake:** In your repo, go to **Settings → Actions → General**, allow all actions, then create this workflow file:
-
-<details>
-<summary>📋 <b>Click to copy snake workflow</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 </details>
 
 ---
@@ -185,17 +153,9 @@ jobs:
 <!-- FEATURED PROJECTS -->
 ### 🚀 Featured Projects
 
-<div align="center">
-
-[![PREX](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=prex&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
-[![Noting App](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=noting-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
-
-</div>
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏭 **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI, MS Graph |
-| 📚 **Noting App** | AI document summarizer with context-aware Q&A chatbot | React, Firebase, OpenAI API |
+| 🏭 **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI API, MS Graph |
 | 🎟️ **TSB Booking Platform** | Django booking system with Razorpay & QR codes | Python, Django, MongoDB, Docker |
 | 🔍 **Lost & Found** | Full-stack platform for campus lost items | HTML/CSS/JS, Firebase |
 | 💼 **Dev Portfolio** | Animated personal portfolio with reusable components | React, TypeScript, Tailwind |
@@ -209,9 +169,10 @@ jobs:
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                    🏆 HALL OF FAME 🏆                    ║
+║                    🏆 HALL OF FAME 🏆                   ║
 ╠══════════════════════════════════════════════════════════╣
 ║  🥇  1st Place   — HackOps 2025 by DJS NSDC             ║
+║  🥇 Web/App Track Winner — LOC 8.0 by DJS ACM           ║
 ║  📊  Rank 54/100 — Code UnCode 2025 Prelims @ SPIT      ║
 ║  🚀  Top 45 Teams — BitNBuild 2025 @ FRCRCE             ║
 ╚══════════════════════════════════════════════════════════╝
