@@ -10,8 +10,8 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=zimaad&label=Profile+Views&color=7B2FBE&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zimaad/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zimaad)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zimaad.azhari@gmail.com)
 
 </div>
@@ -21,7 +21,7 @@
 <!-- ABOUT ME SECTION -->
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About Me
+### About Me
 
 ```yaml
 name: Zimaad Azhari
@@ -38,33 +38,18 @@ currently:
   learning: LLMs, System Design, Cloud Architectures
 
 interests:
-  - Full Stack Development 🌐
-  - AI / LLM Integration 🤖
-  - Competitive Hacking 🏆
-  - Finance x Tech 📈
-
-fun_fact: >
-  I reduced manual order tracking by ~70%
-  with a single dashboard. Efficiency is art.
+  - Full Stack Development 
+  - AI / LLM Integration 
+  - Finance x Tech 
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- TROPHY SECTION -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zimaad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <!-- TECH STACK -->
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 
@@ -108,7 +93,7 @@ fun_fact: >
 ---
 
 <!-- GITHUB STATS -->
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zimaad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -121,7 +106,7 @@ fun_fact: >
 
 ---
 
-### 🌍 3D Contribution Globe
+### Contribution Globe
 
 <div align="center">
 
@@ -132,7 +117,7 @@ fun_fact: >
 ---
 
 <!-- ACTIVITY GRAPH -->
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimaad&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7B2FBE" />
@@ -141,19 +126,19 @@ fun_fact: >
 ---
 
 <!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏭 **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI API, MS Graph |
-| 🎟️ **TSB Booking Platform** | Django booking system with Razorpay & QR codes | Python, Django, MongoDB, Docker |
-| 🔍 **Lost & Found** | Full-stack platform for campus lost items | HTML/CSS/JS, Firebase |
-| 💼 **Dev Portfolio** | Animated personal portfolio with reusable components | React, TypeScript, Tailwind |
+| **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI API, MS Graph |
+| **TSB Booking Platform** | Django booking system with Razorpay & QR codes | Python, Django, MongoDB, Docker |
+| **Lost & Found** | Full-stack platform for campus lost items | HTML/CSS/JS, Firebase |
+| **Dev Portfolio** | Animated personal portfolio with reusable components | React, TypeScript, Tailwind |
 
 ---
 
 <!-- ACHIEVEMENTS -->
-### 🏅 Achievements & Hackathons
+### Achievements & Hackathons
 
 <div align="center">
 
@@ -173,7 +158,7 @@ fun_fact: >
 ---
 
 <!-- CURRENTLY LEARNING -->
-### 🌱 Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
@@ -187,29 +172,18 @@ fun_fact: >
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
-
-### 💬 Dev Quote of the Day
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <!-- CONNECT -->
-### 🤝 Let's Connect & Build Together
+### Let's Connect & Build Together
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/zimaad/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zimaad.azhari@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com">
+<a href="https://github.com/Zimaad">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
