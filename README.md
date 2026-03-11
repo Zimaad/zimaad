@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zimaad%20Azhari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Mumbai&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Zimaad+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Enthusiast+%F0%9F%A4%96;Building+cool+stuff+with+React+%26+Firebase+%F0%9F%94%A5;1st+Place+%40+HackOps+2025+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Zimaad+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=zimaad&label=Profile+Views&color=7B2FBE&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zimaad/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zimaad)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zimaad.azhari@gmail.com)
 
 </div>
@@ -21,7 +21,7 @@
 <!-- ABOUT ME SECTION -->
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About Me
+### About Me
 
 ```yaml
 name: Zimaad Azhari
@@ -38,33 +38,18 @@ currently:
   learning: LLMs, System Design, Cloud Architectures
 
 interests:
-  - Full Stack Development 🌐
-  - AI / LLM Integration 🤖
-  - Competitive Hacking 🏆
-  - Finance x Tech 📈
-
-fun_fact: >
-  I reduced manual order tracking by ~70%
-  with a single dashboard. Efficiency is art.
+  - Full Stack Development 
+  - AI / LLM Integration 
+  - Finance x Tech 
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- TROPHY SECTION -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zimaad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <!-- TECH STACK -->
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
 
@@ -76,8 +61,6 @@ fun_fact: >
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -97,18 +80,12 @@ fun_fact: >
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**APIs & AI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zimaad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -121,55 +98,18 @@ fun_fact: >
 
 ---
 
-<!-- SNAKE CONTRIBUTION GAME -->
-### 🐍 Watch My Contributions Get Eaten
+### Contribution Globe
 
 <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zimaad/zimaad/output/docs/github-contribution-grid-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/zimaad/zimaad/main/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+
 </div>
-
-> **To activate the snake:** In your repo, go to **Settings → Actions → General**, allow all actions, then create this workflow file:
-
-<details>
-<summary>📋 <b>Click to copy snake workflow</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimaad&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&area_color=7B2FBE" />
@@ -178,35 +118,28 @@ jobs:
 ---
 
 <!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![PREX](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=prex&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
-[![Noting App](https://github-readme-stats.vercel.app/api/pin/?username=zimaad&repo=noting-app&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/zimaad)
-
-</div>
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏭 **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI, MS Graph |
-| 📚 **Noting App** | AI document summarizer with context-aware Q&A chatbot | React, Firebase, OpenAI API |
-| 🎟️ **TSB Booking Platform** | Django booking system with Razorpay & QR codes | Python, Django, MongoDB, Docker |
-| 🔍 **Lost & Found** | Full-stack platform for campus lost items | HTML/CSS/JS, Firebase |
-| 💼 **Dev Portfolio** | Animated personal portfolio with reusable components | React, TypeScript, Tailwind |
+| **PREX** | Procurement & quotation automation + AI email processing | React, Firebase, OpenAI API, MS Graph |
+| **TSB Booking Platform** | Django booking system with Razorpay & QR codes | Python, Django, MongoDB, Docker |
+| **Lost & Found** | Full-stack platform for campus lost items | HTML/CSS/JS, Firebase |
+| **Dev Portfolio** | Animated personal portfolio with reusable components | React, TypeScript, Tailwind |
 
 ---
 
 <!-- ACHIEVEMENTS -->
-### 🏅 Achievements & Hackathons
+### Achievements & Hackathons
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                    🏆 HALL OF FAME 🏆                    ║
+║                    🏆 HALL OF FAME 🏆                   ║
 ╠══════════════════════════════════════════════════════════╣
 ║  🥇  1st Place   — HackOps 2025 by DJS NSDC             ║
+║  🥇 Web/App Track Winner — LOC 8.0 by DJS ACM           ║
 ║  📊  Rank 54/100 — Code UnCode 2025 Prelims @ SPIT      ║
 ║  🚀  Top 45 Teams — BitNBuild 2025 @ FRCRCE             ║
 ╚══════════════════════════════════════════════════════════╝
@@ -217,7 +150,7 @@ jobs:
 ---
 
 <!-- CURRENTLY LEARNING -->
-### 🌱 Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
@@ -231,29 +164,18 @@ jobs:
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
-
-### 💬 Dev Quote of the Day
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <!-- CONNECT -->
-### 🤝 Let's Connect & Build Together
+### Let's Connect & Build Together
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/zimaad/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zimaad.azhari@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com">
+<a href="https://github.com/Zimaad">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
