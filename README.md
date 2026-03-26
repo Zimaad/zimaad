@@ -84,20 +84,6 @@ interests:
 
 ---
 
-<!-- GITHUB STATS -->
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zimaad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimaad&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zimaad&theme=radical&hide_border=true&background=0d1117" />
-</div>
-
----
-
 ### Contribution Globe
 
 <div align="center">
