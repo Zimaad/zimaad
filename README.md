@@ -124,8 +124,6 @@ interests:
 ╠══════════════════════════════════════════════════════════╣
 ║  🥇  1st Place   — HackOps 2025 by DJS NSDC             ║
 ║  🥇 Web/App Track Winner — LOC 8.0 by DJS ACM           ║
-║  📊  Rank 54/100 — Code UnCode 2025 Prelims @ SPIT      ║
-║  🚀  Top 45 Teams — BitNBuild 2025 @ FRCRCE             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
