@@ -123,7 +123,7 @@ interests:
 ║                    🏆 HALL OF FAME 🏆                   ║
 ╠══════════════════════════════════════════════════════════╣
 ║  🥇  1st Place   — HackOps 2025 by DJS NSDC             ║
-║  🥇 Web/App Track Winner — LOC 8.0 by DJS ACM           ║         ║
+║  🥇 Web/App Track Winner — LOC 8.0 by DJS ACM           ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
