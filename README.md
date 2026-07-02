@@ -19,8 +19,8 @@
 <br/>
 
 <!-- SOCIALS (flat-square = blocky/pixel-friendly) -->
+<a href="https://zimaad.in"><img src="https://img.shields.io/badge/zimaad.in-000?style=flat&logo=safari&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/zimaad/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/zimaad"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="mailto:zimaad.azhari@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=zimaad&label=VISITORS&color=7B2FBE&style=flat-square"/>
 
